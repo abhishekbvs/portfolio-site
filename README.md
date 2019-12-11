@@ -1,12 +1,13 @@
 
 <p align="center">
-  <a href="https://www.gatsbyjs.org">
     <!-- <img alt="Gatsby" src="" width="60" /> -->
   </a>
 </p>
 <h1 align="center">
   Abhishek Bvs Portfolio Website
 </h1>
+
+
 
 ## 🧐 What's inside?
 
@@ -50,4 +51,4 @@ A quick look at the top-level files and directories you'll see in a Gatsby proje
 
 12. **`README.md`**: A text file containing useful reference information about your project.
 
-
+[![Netlify Status](https://api.netlify.com/api/v1/badges/cf05864b-d27e-4764-ae2c-4c8161f78a08/deploy-status)](https://app.netlify.com/sites/abhishekbvs/deploys)
