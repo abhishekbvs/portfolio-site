@@ -3,7 +3,7 @@
   "private": true,
   "description": "Portfolio Website",
   "version": "0.1.0",
-  "author": "Abhishek Bvs bvsabhishek@gmail.com>",
+  "author": "Abhishek Bvs <bvsabhishek@gmail.com>",
   "dependencies": {
     "gatsby": "^2.18.8",
     "gatsby-image": "^2.2.34",
