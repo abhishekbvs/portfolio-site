@@ -1,9 +1,9 @@
 {
-  "name": "gatsby-starter-default",
+  "name": "Abhishek Bvs",
   "private": true,
-  "description": "A simple starter to get up and developing quickly with Gatsby",
+  "description": "Portfolio Website",
   "version": "0.1.0",
-  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "author": "Abhishek Bvs bvsabhishek@gmail.com>",
   "dependencies": {
     "gatsby": "^2.18.8",
     "gatsby-image": "^2.2.34",
@@ -35,11 +35,4 @@
     "test": "echo \"Write tests! -> https://gatsby.dev/unit-testing\" && exit 1",
     "deploy:github": "npm run build && node ./scripts/deploy-github"
   },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/gatsbyjs/gatsby-starter-default"
-  },
-  "bugs": {
-    "url": "https://github.com/gatsbyjs/gatsby/issues"
-  }
 }
