@@ -1,9 +1,11 @@
 import React from "react"
 
 const Footer = () => (
-   <footer>
-        © Copyright {new Date().getFullYear()}, Built with 💗  by Abhishek Bvs.
-   </footer>
+  
+   <div id = "footer" >
+      <p> © Copyright {new Date().getFullYear()}, Built with 💗 by <strong>Abhishek Bvs</strong>.</p>   
+   </div>  
+  
 )
 
 export default Footer
