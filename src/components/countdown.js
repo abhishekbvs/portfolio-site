@@ -46,11 +46,11 @@ class Countdown extends Component {
             {/* <div className="part p-4 col-6 col-md-3">
               {this.leading(this.state.days)}
               <span>Days</span>
-            </div>
+            </div> */}
             <div className="part p-4 col-6 col-md-3">
               {this.leading(this.state.hours)}
               <span>Hours</span>
-            </div> */}
+            </div>
             <div className="part p-4 col-6 col-md-3">
               {this.leading(this.state.minutes)}
               <span>Minutes</span>
