@@ -16,7 +16,7 @@ const Face = () => (
           <img src={Challenge1} alt="Challenge 1" style={{ height: "50vh" }} />
           <div  style={{ paddingTop : "1rem" }} >
                <h4><strong>Round ends in</strong></h4>
-               <Countdown deadline='December 29, 2019 12:30:00'/>
+               <Countdown deadline='December 29, 2019 13:00:00'/>
           </div>
           <br></br>
           <div>
