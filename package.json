@@ -1,7 +1,7 @@
 {
-  "name": "abhishek_bvs",
+  "name": "inctf",
   "private": true,
-  "description": "Portfolio Website",
+  "description": "inCTF Code Breaker",
   "version": "0.1.0",
   "author": "Abhishek Bvs <bvsabhishek@gmail.com>",
   "dependencies": {

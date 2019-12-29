@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
-    title: `Abhishek`,
-    description: `Abhishek Bvs portfolio website.`,
+    title: `InCTF`,
+    description: `InCTF19 Code Breaker Challenges.`,
     author: `@abhishekbvs`,
   },
   plugins: [
@@ -18,8 +18,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Abhishek Bvs`,
-        short_name: `Abhishek`,
+        name: `InCTF19`,
+        short_name: `InCTF`,
         start_url: `/`,
         background_color: `#663399`,
         theme_color: `#663399`,

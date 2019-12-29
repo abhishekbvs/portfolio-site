@@ -5,7 +5,7 @@ import Face from "../components/face"
 
 const IndexPage = () => (
   <Layout>
-    <SEO title="Home"/>
+    <SEO title="InCTF19"/>
       <Face/>
   </Layout>
 )
