@@ -20,7 +20,7 @@ const Face = () => (
           </div>
           <div  style={{ paddingTop : "1rem" }} >
                <h4><strong>Round ends in</strong></h4>
-               <Countdown deadline='December 29, 2019 15:10:00'/>
+               <Countdown deadline='December 29, 2019 15:30:00'/>
           </div>
           <br></br>
           <div>
