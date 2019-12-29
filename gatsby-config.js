@@ -27,7 +27,12 @@ module.exports = {
         icon: `src/images/my-icon.png`, // This path is relative to the root of the site.
       },
     },
-    
+    {
+      resolve: `gatsby-transformer-remark`,
+      options: {
+        plugins: [`gatsby-remark-responsive-iframe`],
+      },
+    },    
     `gatsby-plugin-offline`,
     `gatsby-plugin-sass`
   ],
