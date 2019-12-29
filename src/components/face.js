@@ -1,6 +1,6 @@
 import React from "react";
 
-import Challenge1 from "../images/Challenge1.jpg";
+import Challenge1 from "../images/challenge.png";
 import Countdown from "../components/countdown";
 
 const Face = () => (
@@ -15,12 +15,12 @@ const Face = () => (
           <p>  Break the code from the image  </p>
           <img src={Challenge1} alt="Challenge 4" style={{ height: "50vh" }} />
           <div style={{ paddingTop: "1rem" }}>
-               <h3><b>HINT</b></h3>
-               <p>This is a substitution cipher</p>
+               {/* <h3><b>HINT</b></h3>
+               <p>This is a substitution cipher</p> */}
           </div>
           <div  style={{ paddingTop : "1rem" }} >
                <h4><strong>Round ends in</strong></h4>
-               <Countdown deadline='December 29, 2019 14:00:00'/>
+               <Countdown deadline='December 29, 2019 15:10:00'/>
           </div>
           <br></br>
           <div>
