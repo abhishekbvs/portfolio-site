@@ -1,5 +1,5 @@
 import React from "react";
-import amDeCLight from "../images/amdec_white.png";
+import Challenge1 from "../images/11795.jpg";
 import Countdown from "../components/countdown";
 
 const Face = () => (
@@ -21,12 +21,13 @@ const Face = () => (
                to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always 
                free from repetition, injected humour, or non-characteristic words etc.
           </p>
-          <img src={amDeCLight} alt="Challenge 1" style={{ height: "5vh" }} />
+          <img src={Challenge1} alt="Challenge 1" style={{ height: "30vh" }} />
           <br></br>
-          <div style={{ textAlign: "center" }}>
+          <div>
                <h4><strong>Round ends in</strong></h4>
                <Countdown deadline='10:11:12 December 30, 2019'/>
           </div>
+          <br></br>
           <div>
                <h4>The Winner is CADET 0x232</h4>
           </div>
