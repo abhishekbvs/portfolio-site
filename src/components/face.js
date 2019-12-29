@@ -36,7 +36,7 @@ const Face = () => (
           <iframe src="https://www.101computing.net/code-breaker/?c=3" width="1000" height="700">Challenge</iframe>
           <div  style={{ paddingTop : "1rem" }} >
                <h4><strong>Round ends in</strong></h4>
-               <Countdown deadline='December 29, 2019 15:00:00'/>
+               <Countdown deadline='December 29, 2019 15:30:00'/>
           </div>
      </div>
    </div>
