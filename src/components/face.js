@@ -36,21 +36,22 @@ const Face = () => (
                     <tr>
                          <td>2</td>
                          <td>Sandesh </td>
-                         <td>70</td>
-                         <td>Amrita Vishwa Vidyapeetham, Amritapuri</td>
-                    </tr>
-
-                         
+                         <td>77</td>
+                         <td>Amazon</td>
+                    </tr>          
                </tbody>
           </Table>  
           <br></br>
           <br></br>
+          <h2>Rules</h2>
+          <p>Speed must be above 40wpm to be elgible for prizes.</p>
           <h2>Terms and Conditions</h2>
           <p> By taking part in the competition you acknowledge and agree to abide by the following terms and conditions.
           For any particular race an individual is eligible for only one prize.
-          The prizes are as stated and no cash or any other alternatives will be offered. Prizes are subject to availability and we reserve the right to substitute the prize with another of equal value without prior notice.
+          The prizes are as stated and no cash or any other alternatives will be offered.
           The organizers decision in all matters related with the contest, including the results, will be final and no negotiation in this regard will be entertained.
-          The terms and conditions are liable to change without prior notice according to the organizers discretion.</p>
+          The terms and conditions are liable to change without prior notice according to the organizers discretion.
+          </p>
           <br></br>
           
      </div>
