@@ -23,18 +23,23 @@ const Face = () => (
                          <th>Rank</th>
                          <th>Name</th>
                          <th>Speed in WPM</th>
-                         <th>Vidyut ID</th>
                          <th>From</th>
                     </tr>
                </thead>
                 <tbody>
                     <tr>
                          <td>1</td>
-                         <td>Abhishek Bvs</td>
-                         <td>100</td>
-                         <td>VAM3128</td>
-                         <td>Amrita Vishwa Vidyapeetham</td>
+                         <td>Akhil KG</td>
+                         <td>80</td>
+                         <td>Amrita Vishwa Vidyapeetham, Amritapuri</td>
+                    </tr> 
+                    <tr>
+                         <td>2</td>
+                         <td>Sandesh </td>
+                         <td>70</td>
+                         <td>Amrita Vishwa Vidyapeetham, Amritapuri</td>
                     </tr>
+
                          
                </tbody>
           </Table>  
