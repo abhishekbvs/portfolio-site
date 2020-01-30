@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
-    title: `InCTF`,
-    description: `InCTF19 Code Breaker Challenges.`,
+    title: `amFOSS`,
+    description: `Vidyut2020`,
     author: `@abhishekbvs`,
   },
   plugins: [
@@ -18,8 +18,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `InCTF19`,
-        short_name: `InCTF`,
+        name: `amFOSS`,
+        short_name: `amFOSS`,
         start_url: `/`,
         background_color: `#663399`,
         theme_color: `#663399`,

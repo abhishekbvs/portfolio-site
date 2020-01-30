@@ -1,7 +1,7 @@
 {
-  "name": "inctf",
+  "name": "amFOSS",
   "private": true,
-  "description": "inCTF Code Breaker",
+  "description": "amFOSS Vidyut2020",
   "version": "0.1.0",
   "author": "Abhishek Bvs <bvsabhishek@gmail.com>",
   "dependencies": {

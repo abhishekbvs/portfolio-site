@@ -14,12 +14,6 @@ const Face = () => (
           <h2>Type Racing</h2>
           <p> The Stall is open. Intreseted to play and win the swag? Then dive in and start typing.  </p>
           <iframe src="https://10fastfingers.com/widgets/ttembeddable/?dur=60" style={{width:'1200px',height:'450px'}}></iframe>
-          {/* <div  style={{ paddingTop : "1rem" }} >
-               <h4><strong>Round ends in</strong></h4>
-               <Countdown deadline='December 29, 2019 15:30:00'/>
-          </div> */}
-          <br></br>
-          <br></br>
           <br></br>
           <br></br>
      </div>

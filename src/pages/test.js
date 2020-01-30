@@ -5,7 +5,7 @@ import Face from "../components/face"
 
 const TestPage = () => (
   <Layout>
-    <SEO title="InCTF19"/>
+    <SEO title="Vidyut2020"/>
       <Face/>
   </Layout>
 )
