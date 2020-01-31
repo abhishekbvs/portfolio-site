@@ -40,12 +40,6 @@ const Face = () => (
                          <td>Sandesh </td>
                          <td>77</td>
                          <td>Amazon</td>
-                    </tr> 
-                    <tr>
-                         <td>3</td>
-                         <td>Sandesh </td>
-                         <td>77</td>
-                         <td>Amazon</td>
                     </tr>           
                </tbody>
           </Table>  
