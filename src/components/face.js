@@ -10,10 +10,12 @@ const Face = () => (
         <h2><strong>amFOSS</strong></h2>
    </div>
    <div id="challenge">
-     <div className ="container">
+     <div className ="container-fluid">
           <h2>Type Racing</h2>
           <p> The Stall is open. Intreseted to play and win the swag? Then dive in and start typing.  </p>
-          <iframe title="Type" src="https://10fastfingers.com/widgets/ttembeddable/?dur=60" style={{width:'900px',height:'450px'}}></iframe>
+          {/* <iframe title="Type" src="https://10fastfingers.com/widgets/ttembeddable/?dur=60" style={{width:'900px',height:'450px'}}></iframe> */}
+          <iframe title="Type" src="https://play.typeracer.com/" style={{width:'1300px',height:'1000px'}}></iframe>
+          
           <br></br>
           <br></br>
           <h2>Scoreboard</h2>
@@ -38,7 +40,13 @@ const Face = () => (
                          <td>Sandesh </td>
                          <td>77</td>
                          <td>Amazon</td>
-                    </tr>          
+                    </tr> 
+                    <tr>
+                         <td>3</td>
+                         <td>Sandesh </td>
+                         <td>77</td>
+                         <td>Amazon</td>
+                    </tr>           
                </tbody>
           </Table>  
           <br></br>
