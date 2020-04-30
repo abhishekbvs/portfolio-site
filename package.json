@@ -73,5 +73,9 @@
     "clean": "gatsby clean",
     "deploy:github": "npm run build && node ./scripts/deploy-github",
     "test": "echo \"Write tests! -> https://gatsby.dev/unit-testing\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/abhishekbvs/portfolio-site"
   }
 }
