@@ -1,0 +1,21 @@
+[
+  
+  {
+    "icon": "../images/education/amrita.png",
+    "title": "Amrita Vishwa Vidyapeetham",
+    "subtitle": "Bachelor of Technology in Computer Science and Engineering",
+    "period": "2017 - 2021"
+  },
+  {
+    "icon": "../images/education/chaitanya.png",
+    "title": "Sri Chaitanya Educational Institution",
+    "subtitle": "Senior Secondary Education, State Board",
+    "period": "2015 - 2017"
+  },
+  {
+    "icon": "../images/education/stpauls.png",
+    "title": "St. Pauls High School",
+    "subtitle": "Elementary, Primary and High School, State Board",
+    "period": "2003 - 2015"
+  }
+]

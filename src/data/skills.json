@@ -1,0 +1,47 @@
+[
+  {
+    "icon": "../images/skills/web.png",
+    "name": "Web Design & Development",
+    "tech": "HTML/CSS/Javascript"
+  },
+  {
+    "icon": "../images/skills/angular.png",
+    "name": "Frontend Frameworks",
+    "tech": "ReactJS/Bootstrap 4"
+  },
+  {
+    "icon": "../images/skills/nodejs.png",
+    "name": "Backend Frameworks",
+    "tech": "Django/Yii2/Nodejs"
+  },
+  {
+    "icon": "../images/skills/python.png",
+    "name": "Python Scripting",
+    "tech": "Python 3/BeautifulSoup/PyMongo"
+  },
+  {
+    "icon": "../images/skills/database.png",
+    "name": "Database Management System",
+    "tech": "MySQL/Postgres/MongoDB"
+  },
+  {
+    "icon": "../images/skills/sketch.png",
+    "name": "UI/UX Design",
+    "tech": "Adobe XD/Figma"
+  },
+  {
+    "icon": "../images/skills/seo.png",
+    "name": "Search Engine Optimization",
+    "tech": "Google Analytics"
+  },
+  {
+    "icon": "../images/skills/photography.png",
+    "name": "Photography & Cinematography",
+    "tech": "Adobe Photoshop/Illustrator/Lightroom"
+  },
+  {
+    "icon": "../images/skills/fcpx.png",
+    "name": "Photo & Video Post-Processing",
+    "tech": "Adobe Premier Pro"
+  }
+]
