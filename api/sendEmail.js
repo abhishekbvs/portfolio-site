@@ -2,7 +2,8 @@ const sendgrid = require("@sendgrid/mail");
 
 module.exports = (req, res) => {
   const { name, email, message } = JSON.parse(req.body);
-  const apiKey = process.env.SENDGRID_KEY;
+  // const apiKey = process.env.SENDGRID_KEY;
+  const apikey = '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';
   sendgrid.setApiKey(apiKey);
 
   const msg = {
