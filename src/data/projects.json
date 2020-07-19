@@ -1,5 +1,21 @@
 [
   {
+    "image": "../images/projects/Swachh-Amrita.png",
+    "title": "Swachh Amrita Application",
+    "description": "Interactive web application which eases the process of managing and registering for clean-up drives",
+    "tags": ["opensource", "webdev", "php", "yii2", "bootstrap"],
+    "github": "https://github.com/abhishekbvs/Swachh-Amrita",
+    "website" : ""
+  },
+  {
+    "image": "../images/projects/Vidyut.jpg",
+    "title": "Vidyut Multifest Application",
+    "description": "Developed a Flask based web application for the management of the fest.",
+    "tags": ["opensource", "webapp", "flask", "python"],
+    "github": "https://github.com/vidyutmultifest",
+    "website" : ""
+  },
+  {
     "image": "../images/projects/Laundry.png",
     "title": "Laundry Management System",
     "description": "JAVA based web application for laundry management",

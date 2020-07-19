@@ -11,14 +11,14 @@ const Hero = () => {
   const [showSocial, setShowSocial] = useState(false);
   const data = useStaticQuery(graphql`
     {
-      photo: file(relativePath: { eq: "photo.jpeg" }) {
+      photo: file(relativePath: { eq: "photo.jpg" }) {
         childImageSharp {
           fluid(maxWidth: 512) {
             ...GatsbyImageSharpFluid_withWebp
           }
         }
       }
-      logo: file(relativePath: { eq: "logo1.png" }) {
+      logo: file(relativePath: { eq: "logo.png" }) {
         childImageSharp {
           fluid(maxHeight: 128) {
             ...GatsbyImageSharpFluid_withWebp
@@ -67,13 +67,12 @@ const Hero = () => {
           />
 
           <h1 className="sr-only">
-            Amruth Pillai&apos;s Resume on the Web <br />
-            Designer, Developer, Photographer, Writer from Bangalore, India
+            Abhishek Bvs<br />
           </h1>
 
           <div className="text-center lg:text-left flex flex-col items-center lg:ml-4 lg:items-start">
        
-          <p>Full stack web developer</p>
+          <p>Open Source Enthusiast | Web Developer | Explorer</p>
            <div className="w-full md:w-auto h-6 my-6">
               {showSocial && <Social />}
             </div>

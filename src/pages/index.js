@@ -3,7 +3,7 @@ import Wrapper from "../components/Wrapper";
 import AboutMe from "../sections/AboutMe";
 import Achievements from "../sections/Achievements";
 import Certifications from "../sections/Certifications";
-import Contact from "../sections/Contact";
+// import Contact from "../sections/Contact";
 import Education from "../sections/Education";
 import Footer from "../sections/Footer";
 import Hero from "../sections/Hero";
@@ -36,7 +36,7 @@ const IndexPage = () => {
         <Philanthropy />
         <Photography />
         <Resume />
-        <Contact />
+        {/* <Contact /> */}
         <Footer />
       </div>
     </Wrapper>

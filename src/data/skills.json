@@ -17,7 +17,7 @@
   {
     "icon": "../images/skills/python.png",
     "name": "Python Scripting",
-    "tech": "Python 3/BeautifulSoup/PyMongo"
+    "tech": "Python 3/BeautifulSoup"
   },
   {
     "icon": "../images/skills/database.png",
