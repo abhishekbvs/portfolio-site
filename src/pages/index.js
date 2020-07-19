@@ -9,7 +9,7 @@ import Footer from "../sections/Footer";
 import Hero from "../sections/Hero";
 import Languages from "../sections/Languages";
 import Philanthropy from "../sections/Philanthropy";
-import Photography from "../sections/Photography";
+// import Photography from "../sections/Photography";
 import Projects from "../sections/Projects";
 import Resume from "../sections/Resume";
 import Skills from "../sections/Skills";
@@ -34,7 +34,7 @@ const IndexPage = () => {
             <Achievements />
         </div>
         <Philanthropy />
-        <Photography />
+        {/* <Photography /> */}
         <Resume />
         {/* <Contact /> */}
         <Footer />
